@@ -1,4 +1,4 @@
-# snap-eval
+# snap-analysis
 
 
 HOW TO USE:
